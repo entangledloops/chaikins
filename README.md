@@ -2,5 +2,5 @@
 
 [See it live!](https://www.khanacademy.org/computer-programming/chaikins-smoothing-algorithm/2654611482)
 
-
+![Example 1](https://github.com/entangledloops/chaikins-smoothing/blob/master/img/1.png)
 
