@@ -1,7 +1,6 @@
 // Stephen Dunn, 11/24/13
 // This algorithm constructs a smooth curve from a set of starting points
 // See it live: https://www.khanacademy.org/computer-programming/chaikins-smoothing-algorithm/2654611482
-// Repo: https://github.com/entangledloops/chaikins-smoothing
 
 var npoints = random(40,70);
 var x = [npoints];
